@@ -1,1 +1,1 @@
-put "love you all".upcase
+puts "love you all".upcase
